@@ -1,3 +1,5 @@
+
+
 # Mobile Robot Simulation Pipeline Knowledge Graph
 
 > 📖 **Curious about the physics and algorithms behind this project?**
@@ -11,6 +13,10 @@
 
 
 ### RViz2 Goal Setting
+
+https://github.com/user-attachments/assets/9c153af1-bfb4-4f40-b7b5-6fc32a9876ef
+
+
 
 
 
