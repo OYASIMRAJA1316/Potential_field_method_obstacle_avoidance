@@ -10,6 +10,10 @@
 ### Potential Field Navigation
 
 
+https://github.com/user-attachments/assets/5145754d-304b-4c74-9f32-dd2a53f5f20a
+
+
+
 
 
 ### RViz2 Goal Setting
