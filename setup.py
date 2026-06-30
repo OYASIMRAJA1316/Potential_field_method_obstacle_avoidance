@@ -19,10 +19,10 @@ setup(
     ],
     install_requires=['setuptools'],
     zip_safe=True,
-    maintainer='ahaber',
-    maintainer_email='ahaber@todo.todo',
-    description='TODO: Package description',
-    license='TODO: License declaration',
+    maintainer='OYASIMRAJA1316',
+    maintainer_email='oyasimraja13raja@gmail.com',
+    description='ROS 2 and Gazebo Harmonic simulation pipeline for a differential drive mobile robot.',
+    license='Apache-2.0',
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [

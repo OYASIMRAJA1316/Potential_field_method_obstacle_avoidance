@@ -3,9 +3,9 @@
 <package format="3">
   <name>mobile_robot</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
-  <maintainer email="oyasim_raja@todo.todo">oyasim_raja</maintainer>
-  <license>TODO: License declaration</license>
+  <description>ROS 2 and Gazebo Harmonic simulation pipeline for a differential drive mobile robot.</description>
+  <maintainer email="oyasimraja13raja@gmail.com">OYASIMRAJA1316</maintainer>
+  <license>Apache-2.0</license>
 
   <test_depend>ament_copyright</test_depend>
   <test_depend>ament_flake8</test_depend>
