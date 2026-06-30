@@ -6,10 +6,14 @@
 ## 🎥 Demonstrations
 
 ### Potential Field Navigation
-*(Upload video here via GitHub.com)*
+
+
+
 
 ### RViz2 Goal Setting
-*(Upload video here via GitHub.com)*
+
+
+
 
 This repository contains a ROS 2 and Gazebo Harmonic simulation pipeline for a differential drive mobile robot. Below is a comprehensive breakdown of the pipeline, how the components interact, and a knowledge graph depicting the system's architecture.
 
