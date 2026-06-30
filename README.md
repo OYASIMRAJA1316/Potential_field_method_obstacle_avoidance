@@ -142,7 +142,7 @@ Open a second terminal, source your workspace, and run **one** of the following 
 ros2 run mobile_robot controller_final
 ```
 
-**Option 2 (Detailed Controller - 4 Graphs):**
+⭐ **Option 2 (Detailed Controller - 4 Graphs) [RECOMMENDED]:**
 ```bash
 ros2 run mobile_robot controller2
 ```
