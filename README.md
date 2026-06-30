@@ -6,10 +6,10 @@
 ## 🎥 Demonstrations
 
 ### Potential Field Navigation
-https://github.com/OYASIMRAJA1316/Potential_field_methos_obstacle_avoidance/raw/main/media/linkedin_potential_field.mp4
+<video src="media/linkedin_potential_field.mp4" width="800" controls muted autoplay loop></video>
 
 ### RViz2 Goal Setting
-https://github.com/OYASIMRAJA1316/Potential_field_methos_obstacle_avoidance/raw/main/media/simulation_with_rviz2.mp4
+<video src="media/simulation_with_rviz2.mp4" width="800" controls muted autoplay loop></video>
 
 This repository contains a ROS 2 and Gazebo Harmonic simulation pipeline for a differential drive mobile robot. Below is a comprehensive breakdown of the pipeline, how the components interact, and a knowledge graph depicting the system's architecture.
 
