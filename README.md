@@ -1,5 +1,8 @@
 # Mobile Robot Simulation Pipeline Knowledge Graph
 
+> 📖 **Curious about the physics and algorithms behind this project?**
+> Read the [Project Philosophy & Theory](ABOUT.md) to understand why the Potential Field Method shines in dynamic environments!
+
 ## 🎥 Demonstrations
 
 ### Potential Field Navigation
