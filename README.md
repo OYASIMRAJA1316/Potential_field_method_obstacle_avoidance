@@ -1,5 +1,13 @@
 # Mobile Robot Simulation Pipeline Knowledge Graph
 
+## 🎥 Demonstrations
+
+### Potential Field Navigation
+![Potential Field Demo](media/linkedin_potential_field.mp4)
+
+### RViz2 Goal Setting
+![RViz2 Demo](media/simulation_with_rviz2.mp4)
+
 This repository contains a ROS 2 and Gazebo Harmonic simulation pipeline for a differential drive mobile robot. Below is a comprehensive breakdown of the pipeline, how the components interact, and a knowledge graph depicting the system's architecture.
 
 ## 📦 Dependencies
